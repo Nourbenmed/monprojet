@@ -1,0 +1,12 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est D664-3A62
+
+ R‚pertoire de C:\Users\samah\Desktop\monprojet
+
+10/07/2021  19:27    <REP>          .
+10/07/2021  19:27    <REP>          ..
+10/07/2021  19:27                 0 branche2.txt
+10/07/2021  19:26                43 localisation.txt
+10/07/2021  19:21               433 merge.txt
+               3 fichier(s)              476 octets
+               2 R‚p(s)  199ÿ984ÿ775ÿ168 octets libres
