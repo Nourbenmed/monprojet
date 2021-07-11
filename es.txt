@@ -1,14 +1,1 @@
- Le volume dans le lecteur C n'a pas de nom.
- Le num‚ro de s‚rie du volume est D664-3A62
-
- R‚pertoire de C:\Users\samah\Desktop\monprojet
-
-11/07/2021  14:03    <REP>          .
-11/07/2021  14:03    <REP>          ..
-10/07/2021  19:33               483 branche2.txt
-11/07/2021  14:03                 0 es.txt
-10/07/2021  19:31               223 localisation.txt
-10/07/2021  19:21               433 merge.txt
-10/07/2021  22:03                 0 monprojetnoura.txt
-               5 fichier(s)            1ÿ139 octets
-               2 R‚p(s)  200ÿ021ÿ430ÿ272 octets libres
+yesssssss
